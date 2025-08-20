@@ -5,7 +5,7 @@ function Contact() {
       <p className="text-gray-400">Let's connect! Reach out via email or LinkedIn.</p>
       <div className="mt-4">
         <a href="mailto:your.email@example.com" className="text-purple-500">Email</a> | 
-        <a href="https://linkedin.com/in/dominque-lawson" className="text-purple-500 ml-2">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/dominque-fullstack/" className="text-purple-500 ml-2">LinkedIn</a>
       </div>
     </section>
   );
