@@ -25,7 +25,7 @@ function Projects() {
         "Simple invoice generator for creatives and small businesses, offering branded PDFs, quick client setup, and serverless infrastructure.",
       tech: ["React", "TypeScript", "Netlify", "Serverless", "Stripe (planned)"],
       linkLabel: "View Project",
-      link: "zapbill.app",
+      link: "https://zapbill.app/",
     },
   ];
 
